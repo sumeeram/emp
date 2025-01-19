@@ -1,0 +1,17 @@
+/* Button Base Style */
+.btn {
+  @apply px-4 py-2 rounded text-sm transition duration-300;
+}
+
+/* Variants */
+.btn-primary {
+  @apply bg-primary text-white hover:bg-primary-dark;
+}
+
+.btn-danger {
+  @apply bg-danger text-white hover:bg-danger-dark;
+}
+
+.btn-transparent {
+  @apply bg-transparent border border-gray-300 text-gray-700;
+}
