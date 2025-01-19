@@ -5,12 +5,12 @@ export default {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#012116", // Base color
-          light: "#1A3A3C", // Lighter shade
+          DEFAULT: "#012116",
+          light: "#1A3A3C",
         },
         danger: {
-          DEFAULT: "#F44336",
-          light: "#E57373",
+          DEFAULT: "#D32F2F",
+          light: "#F44336",
         },
         transparent: "transparent",
       },
