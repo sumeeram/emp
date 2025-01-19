@@ -5,11 +5,11 @@
 
 /* Variants */
 .btn-primary {
-  @apply bg-primary text-white hover:bg-primary-dark;
+  @apply bg-primary text-white hover:bg-primary-light;
 }
 
 .btn-danger {
-  @apply bg-danger text-white hover:bg-danger-dark;
+  @apply bg-danger text-white hover:bg-danger-light;
 }
 
 .btn-transparent {
